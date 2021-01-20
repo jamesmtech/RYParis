@@ -1,0 +1,155 @@
+html, body {
+    margin:0;
+    padding:0;
+    width: 100%;
+    height: auto;
+    /* background-color: */
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.links {
+    font-size: 10pt;
+}
+a {
+    color: black;
+    text-decoration: none;
+    padding-right: 20px
+}
+
+.container{
+    width: 100%;
+    
+    background-color:goldenrod;
+}
+.inner {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px
+}
+
+.nav { 
+    width: 100%;
+    background-color: goldenrod;
+    padding-right: 30px;
+}
+
+.hr {
+    color: white;
+    margin: 0;
+}
+
+.hero {
+    position: relative;
+  text-align: center;
+   
+}
+
+.herobanner {
+    background-color: white;
+    position: absolute;
+    top: 75%;
+    left: 35%
+    
+}
+h2 {
+    margin:5px;
+    font-weight: 700;
+}
+h3 {
+    font-weight: 900;
+    font-size: 20pt;
+    text-align: left;
+}
+.pandthree {
+    
+}
+p {
+    text-align: left;
+}
+
+.p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.piccontainer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    position: relative;
+
+}
+.pic1 {
+    margin-right: 25px;
+}
+.pic2 {
+    margin-right: 25px;
+}
+.picsub{
+    font-size: 8pt;
+    text-align: center;
+}
+.piccontainer2 {
+    display: flex;
+   justify-content: space-evenly;
+   margin: 0px 50px;
+}
+.pandfour {
+        background-color: rgb(183, 205, 214, 0.5);
+        margin: 0px 50px;
+        padding: 35px 0px;
+    }
+.par2 {
+    margin: 0px 60px;
+}
+
+.sp1 {
+    margin: 
+}
+
+    .pic12 {
+        margin-right: 25px;}
+    
+    .pic22 {
+            margin-right: 25px;}
+
+    .pic32 {
+                margin-right: 25px;  }  
+
+    .footer {
+        background-color: goldenrod;
+        height: 100px;
+        display: relative;
+        display: flex;
+    align-items: center;
+    
+
+                }
+.copyright {
+    font-size: 10pt;
+    position: absolute;
+    display: inline;
+/* bottom: 30px; */
+    left: 80px;
+    
+}
+.footerlinks {
+    display: inline;
+    font-size: 8pt;
+    position: absolute;
+    right: 10px;
+    /* bottom: 47px; */
+}
+
+img {
+    object-fit: cover;
+}
+
+.heropic {
+    width: 100%
+}
